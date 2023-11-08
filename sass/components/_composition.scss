@@ -10,17 +10,17 @@
     transition: all 0.2s;
     outline-offset: 2rem;
 
-    &p--1 {
+    &--p1 {
       left: 0;
       top: -2rem;
     }
 
-    &p--2 {
+    &--p2 {
       right: 0;
       top: 2rem;
     }
 
-    &p--3 {
+    &--p3 {
       left: 20%;
       top: 10rem;
     }
