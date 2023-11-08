@@ -274,14 +274,17 @@ body {
   position: relative;
   clip-path: polygon(0 0, 100% 0, 100% 75vh, 0 100%);
 }
+
 .header__logo-box {
   position: absolute;
   top: 4rem;
   left: 4rem;
 }
+
 .header__logo {
   height: 3.5rem;
 }
+
 .header__text-box {
   position: absolute;
   top: 40%;
@@ -345,6 +348,7 @@ body {
   transform: skewY(-7deg);
   margin-top: -10rem;
 }
+
 .section-features > * {
   transform: skewY(7deg);
 }
