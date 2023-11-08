@@ -32,7 +32,7 @@
       z-index: 20;
     }
   }
-  &:hover &photo:not(:hover) {
+  &:hover &__photo:not(:hover) {
     transform: scale(0.95);
   }
 }
